@@ -1,5 +1,5 @@
 # EPI-graph
-EPI-graph localizes the epileptogenic network using connectivity and graph theory measures from interictal SEEG recorded from brain structures of epilepsy patients. The tool uses signal processing techniques including fourier transform and energy calculations to detect interictal discharges. Nonlinear correlation (h2 index) and Mutual information were implemented in the tool to measure the degree of synchronization across different brain areas.
+EPI-graph localizes the epileptogenic network using connectivity and graph theory measures from interictal SEEG recorded from brain structures of epilepsy patients. The tool uses signal processing techniques including fourier transform and energy calculations to detect interictal discharges. Connectivity parameters nonlinear correlation (h2 index) and mutual information were implemented in the tool to measure the degree of synchronization across different brain areas. Graph theory measures were also implemented in the tool to predict the possible EZ.
 
 This is the README for the tool associated with the paper:
 
