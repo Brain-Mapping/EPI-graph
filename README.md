@@ -5,7 +5,9 @@ This is the README for the tool associated with the paper: *********************
 
 
 Developed by : Rohith Devisetty, Amsitha MB, Sasi Jyothirmai, Siby Gopinath and Harilal Parasuram
+
 Amrita Advanced Centre for Epilepsy (AACE), Amrita Institute of Medical Sciences, Kochi, Kerala, India.
+
 harilal.navami@gmail.com
 
 A detailed step-by-step procedure is also listed in the "How-to-EPI-graph.pdf" document.
