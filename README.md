@@ -3,7 +3,7 @@ EPI-graph help to localizes the epileptogenic network from interictal SEEG recor
 
 This is the README for the tool associated with the paper:
 
-Rohith Devisetty, Amsitha MB, Sasi Jyothirmai, Remya Ajai, Ashok Pillai, Anand Kumar,Siby Gopinath and Harilal Parasuram, Predicting epileptogenic network from SEEG using interictal connectivity and graph theory analysis, ****, 2020.
+Rohith Devisetty, Amsitha MB, Sasi Jyothirmai, Remya Ajai, Ashok Pillai, Anand Kumar,Siby Gopinath and Harilal Parasuram, Predicting epileptogenic network from SEEG using interictal connectivity and graph theory analysis, ****, 2021.
 
 
 Developed by : Rohith Devisetty, Amsitha MB, Sasi Jyothirmai, Siby Gopinath and Harilal Parasuram
