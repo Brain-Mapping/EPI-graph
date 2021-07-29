@@ -4,7 +4,7 @@ EPI-graph helps to localize the epileptogenic network from interictal activity (
 This is the README for the tool associated with the paper: *************************
 
 
-Developed by : Rohith Devisetty, Amsitha MB, Sasi Jyothirmai, Siby Gopinath and Harilal Parasuram
+Developed by : Rohith Devisetty, Amsitha MB, Sasi Jyothirmai, Remya Ajai, Ashok Pillai, Anand Kumar, Siby Gopinath and Harilal Parasuram
 
 Amrita Advanced Centre for Epilepsy (AACE), Amrita Institute of Medical Sciences, Kochi, Kerala, India.
 
